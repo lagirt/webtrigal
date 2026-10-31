@@ -2,6 +2,7 @@
 
 Portafolio y página web personal de **Trigal Naciente Oliva Campusano** (Ingeniería Industrial | Técnica en Control Industrial | Gestión Logística | Training PNL).
 
+🌐 **Sitio web en vivo (GitHub Pages):** [https://lagirt.github.io/webtrigal/](https://lagirt.github.io/webtrigal/)  
 🌐 **Sitio web en vivo (Cloudflare Pages):** [https://web-personal-cloudflare-k3e.pages.dev/](https://web-personal-cloudflare-k3e.pages.dev/)
 
 ## Estructura del proyecto
